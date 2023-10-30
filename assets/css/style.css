@@ -3785,22 +3785,22 @@ table .badge {
   -ms-transition: 500ms all ease;
 }
 .why-choose .card:hover {
-  background: #000;
+  /* background: #000; */
 }
 .why-choose .card:hover .choose-black {
-  background: #ffffff;
+  /* background: #ffffff; */
 }
 .why-choose .card:hover .choose-secondary {
-  background: #ffffff;
+  /* background: #ffffff; */
 }
 .why-choose .card:hover .choose-primary {
-  background: #ffffff;
+  /* background: #ffffff; */
 }
 .why-choose .card:hover .choose-content h4 {
-  color: #ffffff;
+  /* color: #ffffff; */
 }
 .why-choose .card:hover .choose-content p {
-  color: #ffffff;
+  /* color: #ffffff; */
 }
 .why-choose .card:hover .choose-img {
   position: relative;
@@ -5216,7 +5216,6 @@ iframe {
   border-color: #127384 !important;
   color: #ffffff !important;
 }
-
 
 .pricing-section .price-card:hover .price-head h4 {
   color: #ffffff;
