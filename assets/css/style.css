@@ -5151,7 +5151,7 @@ iframe {
 }
 .pricing-section .price-card .price-details ul .price-uncheck {
   color: #787878;
-  text-decoration: line-through;
+  /* text-decoration: line-through; */
   -webkit-transition: 500ms all ease;
   -o-transition: 500ms all ease;
   transition: 500ms all ease;
@@ -5374,7 +5374,7 @@ iframe {
   font-weight: 500;
   font-size: 14px;
   color: #787878;
-  text-decoration: line-through;
+  /* text-decoration: line-through; */
   -webkit-transition: 500ms all ease;
   -o-transition: 500ms all ease;
   transition: 500ms all ease;
