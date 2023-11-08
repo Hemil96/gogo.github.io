@@ -2691,7 +2691,7 @@ table .badge {
 
 .banner-slider {
   position: relative;
-  background-image: url(../img/banner.jpg);
+  /* background-image: url(../img/try-this.jpg); */
   background-repeat: no-repeat;
   background-position: right;
   background-size: cover;
